@@ -1,0 +1,8 @@
+/* components/mybutton/index.wxss */
+.button {
+  display: inline-block;
+  padding: 18rpx 25rpx;
+  background-color: crimson;
+  color: #fff;
+  font-size: 0.9em;
+}

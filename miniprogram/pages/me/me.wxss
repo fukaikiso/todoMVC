@@ -1,0 +1,14 @@
+/* pages/me/me.wxss */
+
+my-button {
+  display: block;
+  margin: 10px;
+}
+
+.cover {
+  background-color: #f03d37;
+  text-align: center;
+  padding: 30rpx;
+  margin: 0 auto;
+  color: #fff;
+}
